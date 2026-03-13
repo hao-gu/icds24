@@ -1,4 +1,4 @@
-# Forest Biomass Estimation Using GEDI Satellite Data
+# Low-Data Deep Transfer Learning for Rainforest Biomass Estimation
 
 A remote sensing research project that uses NASA's GEDI (Global Ecosystem Dynamics Investigation) lidar satellite data alongside ERA5 climate reanalysis data to train neural networks that predict above-ground biomass density (AGBD) in tropical forests.
 
