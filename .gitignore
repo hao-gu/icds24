@@ -1,0 +1,10 @@
+# Excluded folders
+wtf/
+GEDI-biomass_all_models/
+Congo_GEDI_data/
+Amazon_GEDI_data/
+
+# Exclude everything in src except congoCodes and amazonCodes
+src/*
+!src/congoCodes/
+!src/amazonCodes/
